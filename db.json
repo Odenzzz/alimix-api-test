@@ -1,7 +1,7 @@
 {
-	"products": {
-		"1": {
+	"products": [
+		{
 			"name": "test"
 		}
-	}
+	]
 }
