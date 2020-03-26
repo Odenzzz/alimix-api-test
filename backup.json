@@ -673,5 +673,12 @@
 			"parent": 1,
 			"link": "/categories/1"
 		}
+	],
+	"categories": [
+		{
+			"id": 1,
+			"parent": null,
+			"title": "Одежда"
+		}
 	]
 }
