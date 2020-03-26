@@ -660,17 +660,13 @@
 			}
 		}
 	],
-	"sidebar_menu": [
+	"categories": [
 		{
 			"id": 1,
-			"title": "Cetegories",
-			"parent": null,
-			"link": "/categories"
-		},
-		{
-			"id": 2,
 			"title": "Одежда",
-			"parent": 1,
+			"parent": null,
+			"thumb": "https://singaporemotherhood.com/articles/wp-content/uploads/2015/12/rsz_featured-clothes.jpg",
+			"description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi explicabo nostrum expedita dicta aliquid optio autem voluptas nihil, dolorem tenetur dolore ad, laboriosam est voluptatibus illum molestias dignissimos eos cum?",
 			"link": "/categories/1"
 		}
 	]
