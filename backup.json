@@ -53,6 +53,7 @@
 			"description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi explicabo nostrum expedita dicta aliquid optio autem voluptas nihil, dolorem tenetur dolore ad, laboriosam est voluptatibus illum molestias dignissimos eos cum?",
 			"currency": "RUB",
 			"language_id": 1,
+			"main_category": 1,
 			"rating": 5,
 			"orders_count": 6786,
 			"default_url": "https://aliexpress.ru/item/4000552670671.html",
@@ -79,6 +80,7 @@
 			"description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi explicabo nostrum expedita dicta aliquid optio autem voluptas nihil, dolorem tenetur dolore ad, laboriosam est voluptatibus illum molestias dignissimos eos cum?",
 			"currency": "RUB",
 			"language_id": 1,
+			"main_category": 1,
 			"rating": 5,
 			"orders_count": 5553,
 			"default_url": "https://aliexpress.ru/item/4000103816666.html",
@@ -105,6 +107,7 @@
 			"description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi explicabo nostrum expedita dicta aliquid optio autem voluptas nihil, dolorem tenetur dolore ad, laboriosam est voluptatibus illum molestias dignissimos eos cum?",
 			"currency": "RUB",
 			"language_id": 1,
+			"main_category": 1,
 			"rating": 5,
 			"orders_count": 2134,
 			"default_url": "https://aliexpress.ru/item/4000730482699.html",
@@ -132,6 +135,7 @@
 			"description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi explicabo nostrum expedita dicta aliquid optio autem voluptas nihil, dolorem tenetur dolore ad, laboriosam est voluptatibus illum molestias dignissimos eos cum?",
 			"currency": "RUB",
 			"language_id": 1,
+			"main_category": 1,
 			"rating": 5,
 			"orders_count": 1646,
 			"default_url": "https://aliexpress.ru/item/1000003552037.html",
@@ -654,6 +658,20 @@
 					"totalOrders": 1646
 				}
 			}
+		}
+	],
+	"sidebar_menu": [
+		{
+			"id": 1,
+			"title": "Cetegories",
+			"parent": null,
+			"link": "/categories"
+		},
+		{
+			"id": 2,
+			"title": "Одежда",
+			"parent": 1,
+			"link": "/categories/1"
 		}
 	]
 }
