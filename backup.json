@@ -669,11 +669,5 @@
 			"description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit",
 			"link": "/categories/1"
 		}
-	],
-	"category_products": [
-		{
-			"id": 1,
-			"products": [1,2,3,4]
-		}
 	]
 }
