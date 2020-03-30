@@ -50,7 +50,7 @@
 		{
 			"id": 1,
 			"name": "Футболка",
-			"description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi explicabo nostrum expedita dicta aliquid optio autem voluptas nihil, dolorem tenetur dolore ad, laboriosam est voluptatibus illum molestias dignissimos eos cum?",
+			"description": "Lorem ipsum dolor sit amet consectetur",
 			"currency": "RUB",
 			"language_id": 1,
 			"main_category": 1,
@@ -77,7 +77,7 @@
 		{
 			"id": 2,
 			"name": "Штаны",
-			"description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi explicabo nostrum expedita dicta aliquid optio autem voluptas nihil, dolorem tenetur dolore ad, laboriosam est voluptatibus illum molestias dignissimos eos cum?",
+			"description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
 			"currency": "RUB",
 			"language_id": 1,
 			"main_category": 1,
@@ -104,7 +104,7 @@
 		{
 			"id": 3,
 			"name": "Куртка",
-			"description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi explicabo nostrum expedita dicta aliquid optio autem voluptas nihil, dolorem tenetur dolore ad, laboriosam est voluptatibus illum molestias dignissimos eos cum?",
+			"description": "Lorem ipsum dolor sit",
 			"currency": "RUB",
 			"language_id": 1,
 			"main_category": 1,
@@ -132,7 +132,7 @@
 		{
 			"id": 4,
 			"name": "Носки",
-			"description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi explicabo nostrum expedita dicta aliquid optio autem voluptas nihil, dolorem tenetur dolore ad, laboriosam est voluptatibus illum molestias dignissimos eos cum?",
+			"description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. 12312312",
 			"currency": "RUB",
 			"language_id": 1,
 			"main_category": 1,
@@ -668,6 +668,12 @@
 			"thumb": "https://singaporemotherhood.com/articles/wp-content/uploads/2015/12/rsz_featured-clothes.jpg",
 			"description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit",
 			"link": "/categories/1"
+		}
+	],
+	"category_products": [
+		{
+			"id": 1,
+			"products": [1,2,3,4]
 		}
 	]
 }
