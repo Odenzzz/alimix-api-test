@@ -570,8 +570,8 @@
 			}
 		},
 		{
-			"id": 1,
-			"product_id": 1,
+			"id": 4,
+			"product_id": 4,
 			"dates": {
 				"1531231231233": {
 					"regular": {
