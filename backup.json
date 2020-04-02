@@ -668,6 +668,14 @@
 			"thumb": "https://singaporemotherhood.com/articles/wp-content/uploads/2015/12/rsz_featured-clothes.jpg",
 			"description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit",
 			"link": "/categories/1"
+		},
+		{
+			"id": 2,
+			"title": "Не одежда",
+			"parent": null,
+			"thumb": "https://novate.ru/files/u35075/0menagainst.jpg",
+			"description": "Lorem ipsum dolor sit amet consectetur",
+			"link": "/categories/2"
 		}
 	]
 }
