@@ -59,10 +59,10 @@
 			"default_url": "https://aliexpress.ru/item/4000552670671.html",
 			"reviews": 55,
 			"thumbnail": "https://ae01.alicdn.com/kf/Ha801c8f52e5e46ae95d0e3c58105e7219/-.jpg",
-			"images": [
-				"https://ae01.alicdn.com/kf/Ha4906e7412a94b3d8c9806ffdfbea2b57/-.jpg",
-				"https://ae01.alicdn.com/kf/H75323d9d3ff249ee8a33b583e30943ebp/-.jpg"
-			],
+			"images": {
+				"1": "https://ae01.alicdn.com/kf/Ha4906e7412a94b3d8c9806ffdfbea2b57/-.jpg",
+				"2": "https://ae01.alicdn.com/kf/H75323d9d3ff249ee8a33b583e30943ebp/-.jpg"
+			},
 			"prices": {
 				"min_price": 23456.67,
 				"max_price": 34567.67,
@@ -86,10 +86,10 @@
 			"default_url": "https://aliexpress.ru/item/4000103816666.html",
 			"reviews": 55,
 			"thumbnail": "https://ae01.alicdn.com/kf/H2912c88bae11411f989258a056ce575bQ/-.jpg",
-			"images": [
-				"https://ae01.alicdn.com/kf/H6fda85245efc41029d452682b514d451Y/-.jpg",
-				"https://ae01.alicdn.com/kf/H8df6c23dd934458cbe4b5dfd9711f5c2P/-.jpg"
-			],
+			"images": {
+				"1": "https://ae01.alicdn.com/kf/H6fda85245efc41029d452682b514d451Y/-.jpg",
+				"2": "https://ae01.alicdn.com/kf/H8df6c23dd934458cbe4b5dfd9711f5c2P/-.jpg"
+			},
 			"prices": {
 				"min_price": 23456.67,
 				"max_price": 34567.67,
@@ -113,11 +113,11 @@
 			"default_url": "https://aliexpress.ru/item/4000730482699.html",
 			"reviews": 55,
 			"thumbnail": "https://ae01.alicdn.com/kf/H5df4bbd9a28b45919e92bca1405223b5D/-.jpg",
-			"images": [
-				"https://ae01.alicdn.com/kf/Hee6e61cbad624a16895050e3f030ee814/-.jpg",
-				"https://ae01.alicdn.com/kf/H342928c542a4485595470a4a3a2379f3q/-.jpg",
-				"https://ae01.alicdn.com/kf/H4ff236c95f614bd2856fe6a416afbea5Z/-.jpg"
-			],
+			"images": {
+				"1": "https://ae01.alicdn.com/kf/Hee6e61cbad624a16895050e3f030ee814/-.jpg",
+				"2": "https://ae01.alicdn.com/kf/H342928c542a4485595470a4a3a2379f3q/-.jpg",
+				"3": "https://ae01.alicdn.com/kf/H4ff236c95f614bd2856fe6a416afbea5Z/-.jpg"
+			},
 			"prices": {
 				"min_price": 23456.67,
 				"max_price": 34567.67,
@@ -141,7 +141,7 @@
 			"default_url": "https://aliexpress.ru/item/1000003552037.html",
 			"reviews": 55,
 			"thumbnail": "https://ae01.alicdn.com/kf/UT8aEHXX3lbXXagOFbXN/50.jpg",
-			"images": [],
+			"images": {},
 			"prices": {
 				"min_price": 23456.67,
 				"max_price": 34567.67,
